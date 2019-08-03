@@ -9,7 +9,7 @@ and python version is here:https://github.com/keredson/wordninja
 
 Usage
 -----
-you may change the test/test.cpp file,modify the dict path and the test string.:
+you may firstly change the test/test.cpp file,modify the dict path and the test string,then:
 ```
 mkdir build
 cd build
